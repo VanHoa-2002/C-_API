@@ -22,4 +22,8 @@
             }
         }
     }
+    public static class Ext
+    {
+        public static int binhPhuong(this int num) => num * num;
+    }
 }
