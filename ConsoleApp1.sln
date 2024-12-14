@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileBasic", "FileBasic\File
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream", "Stream\Stream.csproj", "{0DD28492-6895-4E18-A8F7-CF12A4B717D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{3B30F804-DEE6-4884-AA3F-8B3A0EFB7F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList", "SortedList\SortedList.csproj", "{96240214-18D5-4F7E-931D-2F336978B111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{0DD28492-6895-4E18-A8F7-CF12A4B717D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD28492-6895-4E18-A8F7-CF12A4B717D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD28492-6895-4E18-A8F7-CF12A4B717D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B30F804-DEE6-4884-AA3F-8B3A0EFB7F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B30F804-DEE6-4884-AA3F-8B3A0EFB7F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B30F804-DEE6-4884-AA3F-8B3A0EFB7F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B30F804-DEE6-4884-AA3F-8B3A0EFB7F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96240214-18D5-4F7E-931D-2F336978B111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96240214-18D5-4F7E-931D-2F336978B111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96240214-18D5-4F7E-931D-2F336978B111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96240214-18D5-4F7E-931D-2F336978B111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
