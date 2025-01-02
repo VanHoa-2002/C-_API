@@ -1,5 +1,4 @@
 ﻿using System.Text;
-//oy2p3ychbeuxszgvprbaob3wpix7kvvufot4k7tvj55kyu
 namespace LabUtils;
 
 public static class ConvertMoneyToTextLib
